@@ -1,2 +1,2 @@
-# IP.INFO1
+# I.P.INFO1
 Repositório de Introdução a programação  
