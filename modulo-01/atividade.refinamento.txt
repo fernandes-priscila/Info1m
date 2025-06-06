@@ -1,0 +1,43 @@
+Implemente algoritmos em linguagem natural com refinamentos até pseudocódigo para as operação de subtração, multiplicação e divisão com base no exercício feito em sala de aula.
+-> Subtração
+Passo a passo:
+(1) Entrada: dois números inteiros 'a' e 'b'
+(2) Saída: Resultado da subtração de 'a' menos 'b'
+(3) Processamento: cálculo da subtração de 'a' menos 'b'
+Linguagem natural:
+1. Leia os valores de 'a' e 'b'
+2. O resultado será a subtração de 'a' menos 'b'
+3. Mostre o resultado dessa subtração
+Refinamento:
+1. Leia [a]
+2. Leia [b]
+3. [resultado]= a-b
+4. Mostre [resultado] 
+-> Multiplicação
+Passo a passo:
+(1) Entrada: dois números inteiros 'a' e 'b'
+(2) Saída: Resultado da multiplicação de 'a' vezes 'b'
+(3) Processamento: cálculo da multiplicação de 'a' vezes 'b'
+Linguagem natural:
+1. Leia os valores de 'a' e 'b'
+2. O resultado será a multiplicação de 'a' vezes 'b'
+3. Mostre o resultado dessa multiplicação
+Refinamento:
+1. Leia [a]
+2. Leia [b]
+3. [resultado]= a.b
+4. Mostre [resultado] 
+-> Divisão
+Passo a passo:
+(1) Entrada: dois números inteiros 'a' e 'b'
+(2) Saída: Resultado da divisão de 'a' por 'b'
+(3) Processamento: cálculo da divisão de 'a' por 'b'
+Linguagem natural:
+1. Leia os valores de 'a' e 'b'
+2. O resultado será a divisão de 'a' por 'b'
+3. Mostre o resultado dessa divisão
+Refinamento:
+1. Leia [a]
+2. Leia [b]
+3. [resultado]= a÷b
+4. Mostre [resultado] 
