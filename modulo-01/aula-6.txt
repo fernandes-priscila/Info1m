@@ -5,7 +5,7 @@ Q2- Escreva um algoritimo usando linguagem natural que calcule a soma de dois n�
   1. Leia/ Pegue os valores desses dois números; 
   2. O resultado será a soma desses dois números;
   3. Mostre o resultado desta soma;
-Q2- Escreva um algoritimo usando linguagem natural que leia dois números inteiros 'a' e 'b', calcule 
+Q3- Escreva um algoritimo usando linguagem natural que leia dois números inteiros 'a' e 'b', calcule 
 a soma destes números e mostre o resultado.
   1. Leia os valores de 'a' e 'b'; 
   2. O resultado será a soma de 'a' mais 'b';
